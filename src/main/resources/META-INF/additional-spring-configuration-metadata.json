@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "-Djdk.tls.client.protocols",
+  "type": "java.lang.String",
+  "description": "A description for '-Djdk.tls.client.protocols'"
+}]}
